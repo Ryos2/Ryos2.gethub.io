@@ -1,0 +1,32 @@
+html { 
+    background: url(motorbike.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+p{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    color: white;
+    text-justify: right;
+    font-size: 40px;
+}
+
+.btn {
+    position: relative;
+    left: 650px;
+    top: 50px;
+}
+
+.container{
+    position: absolute
+}
+
+#mc-embedded-subscribe{
+    position: relative;
+    left: 685px;
+    top: 120px;
+}
